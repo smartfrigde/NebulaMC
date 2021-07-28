@@ -1,0 +1,26 @@
+{
+  "name": "nebulamc",
+  "version": "1.0.0",
+  "description": "NebulaMC is wrapper for Nebula Network Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "smartfridge",
+  "license": "OSL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartfrigde/NebulaMC.git"
+  },
+  "keywords": [
+    "api",
+    "minecraft",
+    "nebula",
+    "towny",
+    "skyblock"
+  ],
+  "bugs": {
+    "url": "https://github.com/smartfrigde/NebulaMC/issues"
+  },
+  "homepage": "https://github.com/smartfrigde/NebulaMC#readme"
+}
